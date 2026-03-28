@@ -1,8 +1,8 @@
 {
   "data": {
     "notification": {
-      "note": " KHÁNH IT TEST   ",
-      "photo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/thong.bao.qr.2.1.png"
+      "note": " KHÁNH IT Tool cài Tivi Xiaomi by Khánh IT – Cài đặt nhanh chóng, tối ưu mượt mà, xử lý lỗi triệt để, hỗ trợ từ xa tận tình – Liên hệ Zalo: 0967.341.608 🚀   ",
+      "photo": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/QUANGCAOV2.png"
     },
 
     "tivi": {
@@ -19,11 +19,11 @@
           ]
         },
         {
-          "name": "Truyền Hình_SportTV",
+          "name": "KHÁNH IT STORE",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/logo1.pn",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/sporstv.apk",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHANHITSORE.apk",
           "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"
