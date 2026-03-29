@@ -299,26 +299,7 @@
         }
       ]
     },
-"caidat": {
-      "apps": [
-        {
-          "name": "Truyền Màn Hình",
-          "versionName": "5.0.6",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Air.Receiver.5.0.6.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
-        },
-        {
-          "name": "MStore",
-          "versionName": "2.0",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Mstore_2.0.0.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
-        }
-      ]
-    },
+    
     "childre": {
       "apps": [
         {
