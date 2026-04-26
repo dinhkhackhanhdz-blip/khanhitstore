@@ -7,7 +7,7 @@ function getManifest() {
         "id": "vmttv",
         "name": "VMT TV",
         "version": "1.0.2",
-        "baseUrl": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main",
+        "baseUrl": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
         "iconUrl": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Logo.png",
         "isEnabled": true,
         "type": "VIDEO",
