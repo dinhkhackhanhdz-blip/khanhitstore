@@ -7,7 +7,7 @@ function getManifest() {
         "id": "missav",
         "name": "MissAV",
         "version": "1.1.1",
-        "baseUrl": "https://missav.media/vi",
+        "baseUrl": "https://missav.media",
         "iconUrl": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/missav.ico",
         "isEnabled": true,
         "isAdult": true,
